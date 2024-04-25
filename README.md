@@ -4,9 +4,10 @@
 
 O LECE é um site desenvolvido utilizando a plataforma WordPress com o plugin Elementor para facilitar a criação e edição de páginas. Ele foi criado para atender às necessidades da [insira aqui o propósito ou público-alvo do site].
 
-## Acesso ao Site
+- **URL do Site:** [www.lece.uerj.br](http://www.lece.uerj.br)
+- **Tela de Login:** [www.lece.uerj.br/wp-admin](http://www.lece.uerj.br/wp-admin)
 
-- **URL:** [www.lece.uerj.br](http://www.lece.uerj.br)
+Para acessar o painel administrativo do site e fazer edições, você precisará fazer login utilizando um nome de usuário e senha.
 
 ## Tecnologias Utilizadas
 
